@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(45deg, rgb(33, 33, 209), rgb(165, 9, 165));
+    background-repeat: no-repeat;
+    height: 100%;
+    margin: 0;
+    background-attachment: fixed;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 2.5rem;
+    margin-top: -200px;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+}
+
+.nav-bar {
+    padding: 10px 15px;
+    color: black;
+}
+
+.nav-bar:hover{
+    background: white;
+}
