@@ -1,9 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=swap');
+
 body{
     background: linear-gradient(45deg, rgb(33, 33, 209), rgb(165, 9, 165));
     background-repeat: no-repeat;
     height: 100%;
     margin: 0;
     background-attachment: fixed;
+}
+
+h1{
+    font-family: 'Rubik Vinyl', cursive;
 }
 
 .main{
